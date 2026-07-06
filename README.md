@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner de perfil" width="100%">
 </p>
 
-# ¡Hola! 👋 Soy Ismael Cruz
+# ¡Hola! 👋 Soy Miriam González
 
 💻 Software Developer
 
