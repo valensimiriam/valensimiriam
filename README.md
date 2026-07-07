@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Banner de perfil" width="100%">
-</p>
-
-
-# Hi there 👋 I'm Miriam González
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Yuyu&pause=1000&color=F7168C&width=435&lines=+I'm+Miriam+Gonz%C3%A1lez++;Software+Developer+from+Mexico+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
 
 💻 Software Developer from Mexico 🇲🇽
 
